@@ -250,3 +250,8 @@ Success in 6m 24s.)
 - The fork has no `main` branch, so the pull request most likely went to
   Penpot's own repo (GitHub's default for forks). AI gave steps to close
   it and open one against the fork's `develop`.
+
+> How do I make sure my one on github is updated
+
+- AI checked how far local `kylebranch` was ahead of GitHub; Kyle runs
+  `git push` to update it.
