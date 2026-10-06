@@ -241,3 +241,12 @@ Success in 6m 24s.)
 
 - AI said yes: push the latest log commits first, then open the pull
   request `kylebranch` → `develop`.
+
+### 22. Pull request sent to the wrong repo (2026-10-05)
+
+> I accidentally made the request to the main one, how do I make the other
+> one too
+
+- The fork has no `main` branch, so the pull request most likely went to
+  Penpot's own repo (GitHub's default for forks). AI gave steps to close
+  it and open one against the fork's `develop`.
